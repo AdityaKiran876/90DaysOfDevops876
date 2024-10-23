@@ -1,0 +1,15 @@
+I am very cool guy
+
+This is the file 
+
+In this file i will check something
+
+𝐔𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝𝐢𝐧𝐠 𝐃𝐚𝐭𝐚𝐅𝐫𝐚𝐦𝐞𝐬:
+◾DataFrames allow you to perform operations like filtering, selecting, and joining data.
+◾They are distributed, meaning they can handle large amounts of data that wouldn’t fit in memory.
+◾You can think of them as an advanced version of a pandas DataFrame with additional benefits for scalability.
+
+𝐊𝐞𝐲 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬:
+◾df.show(): Displays the content of the DataFrame.
+◾df.printSchema(): Prints the schema of the DataFrame (data types of each column).
+
